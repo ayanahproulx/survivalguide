@@ -1,0 +1,32 @@
+h3 {
+  font-size: 1em;
+  font-family: Menlo, "Courier New";
+  color: #fff;
+  padding-left: 5em;
+  font-style: center;
+}
+
+h2 {
+  font-size: 1em;
+  font-family: Menlo, "Courier New";
+  color: #969;
+}
+
+h1{font-size: 3em;
+font-family: Menlo, "Courier New";
+text-align: center;
+color: #fff;
+}
+
+h4{font-size: 1em;
+font-family: Menlo, "Courier New";
+color: #c60;
+}
+
+h5 {font-size: 1em;
+font-family: Menlo, "Courier New";
+color: #6cf;}
+
+body{
+  background-color: #333;
+}
